@@ -24,7 +24,7 @@ def ripemd160(x):
 
 
 r = 0
-cores=6
+cores=8
 
 
 def seek(r, df_handler):
